@@ -1,0 +1,70 @@
+---
+layout: default
+year: 2022
+number: 25th
+dates: 25.11.-26.11.2022
+location: Dresden, Germany
+---
+
+
+## Participation
+
+We invite submissions from either CTU Prague or University of Applied Sciences Dresden fitting to the workshop topics. Please submit the title of your talk and the name of the author(s) to kammer[at]htw-dresden.de.
+
+## Topics
+
+* Computer Graphics
+* Human-computer Interaction
+* Information Visualization
+* Robotics
+* Usability
+
+## Program
+{: .extra-space-bottom }
+
+### Friday, November 25 HTW Dresden, Zentralgebäude Z336
+
+| 9:45 | Opening
+| 9:50 | Markus Wacker & Evelyn Zinnatova: Feeling art – Realizing a catalogue for blind and visually impaired people of art works of Old Masters Picture Gallery and Sculpture Collection up to 1800 Hands-on presentations |
+| 10:15 | Barbora Koudelková: Multiprojection of Langweil‘s model |
+| 10:40 | Adam Shorný: Assistant for persons interested in study at CTU FEE |
+| 11:05 | Vojtěch Leischner: Sonification of a juggling performance using spatial audio |
+| | |
+| 11:30 | Coffee break |
+| | |
+| 11:45 | Elzė Tomasiunaite & Annika Hoffmann: The Role of Usability, User Experience and Aesthetics for Industrial Human-Machine Interfaces |
+| 12:10 | Vojtěch Radakulan: Using optically illusive architecture to navigate users in Virtual Reality – State of the art |
+| | |
+| 12:35 | Lunch at Mensa |
+| | |
+| 13:15 | Uršula Žákovská: Speed and Required Precision of Grabbing Physical Spheres in VR (remote) |
+| 13:40 | Conradt Bandt: Development of an Unity Pipeline for path-dependent Animation Chains for On-Demand Animation of Virtual Avatars |
+| 14:05 | Mathias Müller: ReFlex – A Toolkit for Research on Elastic Displays |
+| | |
+| 14:30 | Coffee break |
+| | |
+| 14:45 | Demonstration of Elastic Display – Group of Prof. Kammer |
+| | |
+| 18:30 | Dinner at restaurant Dschingis Khan |
+
+### Saturday, November 26 HTW Dresden, Zentralgebäude Z336
+
+| 9:30 | Kevin Slijepcevic: Digital Reading Stand |
+| 9:55 | Jonas Bruschke: DFG Project IDOVIR: Documentation of 3D Reconstruction Projects |
+| 10:20 | Isabella Skořepová: Tracking multiple VR users in a shared physical space |
+| | |
+| 10:45 | Coffee break |
+| | |
+| 11:00 | Demonstrations of Care4All project – Group of Prof. Böhme |
+| | |
+| 12:15 | Lunch break |
+| | |
+| 12:45 | Elena Stoll: Aesthetic Experience in Information Visualization |
+| 13:10 | Jan Jirman: VentConnect: Live to life and the octopus in the hospital server room |
+| 13:35 | Pavel Husa: Nice noise: background noise enhancement with generated musical content |
+| 14:00 | Václav Pavlovec: Parametric Curve Labeling |
+| 14:25 | Closing and Organizers meeting |
+
+## Proceedings
+
+The proceedings of the workshop are available on [Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:520-qucosa2-851474).

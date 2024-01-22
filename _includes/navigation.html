@@ -1,0 +1,28 @@
+<div >
+    <h3>Navigation</h3>
+    <p>
+        {% if page.content contains 'Participation' %}
+        <span class="listing"><a href="#participation">Participation</a></span>
+        {% endif %}
+        {% if page.content contains 'Topics' %}
+        <span class="listing"><a href="#topics">Topics</a></span>
+        {% endif %}
+        {% if page.content contains 'Important Dates' %}
+        <span class="listing"><a href="#important-dates">Important Dates</a></span>
+        {% endif %}
+        {% if page.content contains 'Organizers' %}
+        <span class="listing"><a href="#organizers">Organizers</a></span>
+        {% endif %}
+        {% if page.content contains 'Program' %}
+        <span class="listing"><a href="#program">Program</a></span>
+        {% endif %}
+        {% if page.content contains 'Proceedings' %}
+        <span class="listing"><a href="#proceedings">Proceedings</a></span>
+        {% endif %}
+    </p>
+    <h3>Editions</h3>
+    {% assign editions_reversed = site.editions | reverse %}
+    {% for edition in editions_reversed %}
+        <span class="listing"><a href="{{ edition.url }}">{{ edition.year }}</a></span>
+    {% endfor %}
+</div>

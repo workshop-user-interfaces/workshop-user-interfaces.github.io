@@ -1,0 +1,39 @@
+title: Bilateral Workshop on User Interfaces & Visualization
+email: kammer@htw-dresden.de
+author: Dietrich Kammer
+description: >-
+    The User Interfaces & Visualization workshop has been held at the University of 
+    Applied Sciences Dresden almost every year since 1992. It is traditionally organized by 
+    the Faculty of Computer Science/Mathematics and the Faculty of Electrical 
+    Engineering of the Czech Technical University in Prague. It offers young 
+    scientists in particular the opportunity to present and discuss their current 
+    research results. The workshop is open to undergraduate and PhD students from both 
+    universities. The main goal is to create a credible simulation of a process 
+    where results of scientific work are presented to an international audience.
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  editions:
+    output: true
+
+plugins:
+  - jekyll-redirect-from
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - .gitignore
+    - .git
+    - .nvm
+    - docker-compose.yml
+    - LICENSE
+    - README.md

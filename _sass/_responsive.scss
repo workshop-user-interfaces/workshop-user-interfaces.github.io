@@ -1,0 +1,15 @@
+@media(max-width:1320px) {
+    .grid-content {
+        display: block;
+    }
+
+    .content-column {
+        padding-top: $intermediate-padding;
+    }
+
+    .container-content,
+    .container-footer {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+}

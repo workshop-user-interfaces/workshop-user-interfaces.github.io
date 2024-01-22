@@ -1,0 +1,39 @@
+---
+layout: default
+year: 2018
+number: 22nd
+dates: 30.11.-1.12.2018
+location: Dresden, Germany
+---
+
+## Topics
+
+* Computer graphics
+* Human-computer-interaction
+* Robotics
+* Usability
+
+## Organizers
+
+Hans-Joachim Böhme\
+Markus Wacker\
+Pavel Slavík
+
+## Program
+
+* An approach to a self-organizing production in comparison to a centrally planned production.
+* Tactile symbols for visually impaired older adults.
+* Design of Olfactory Cues for Approximate Spatial Self-Localization.
+* Shape To Muscle: A Model for estimating Muscle Activation from Skin Deformation.
+* Model of a Conversational System for Controlling Secondary Tasks while Driving.
+* Tools for Art and Architectural Research with Historic Media Repositories.
+* Direct Labels: Real-time External Labeling Without Leader Lines.
+* Seamless Cloning with Poisson Image Editing.
+* Multimodal user interaction for human behavior modeling in adaptation and personalization.
+* Objective Feature Selection using GMLVQ with Directly Incorporated L1-Regularization.
+* How to Call a Robot in an Emergency Situation.
+* Development of a Collaborative Computer Game for Elderly with Dementia.
+
+## Proceedings
+
+On [Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:520-qucosa2-361124).

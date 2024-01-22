@@ -1,0 +1,41 @@
+---
+layout: default
+year: 2024
+dates: 29.11.-1.12.2024
+location: Dresden, Germany
+number: 27th
+permalink: /
+redirect_from:
+  - /editions/2024
+---
+## Participation
+
+We invite submissions from either CTU Prague or University of Applied Sciences Dresden fitting to the workshop topics. Please submit the title of your talk and the name of the author(s) to kammer[at]htw-dresden.de.
+
+## Topics
+
+* Computer Graphics
+* Human-computer Interaction
+* Information Visualization
+* Robotics
+* Usability
+
+## Important Dates
+
+| 1.11.2024 | Submission of talks |
+| 29.11.–1.12.2024 | Workshop in Dresden |
+
+## Organizers
+
+Markus Wacker, University of Applied Sciences Dresden\
+Dietrich Kammer, University of Applied Sciences Dresden\
+Pavel Slavik, Czech Technical University Prague\
+Miroslav Macik, Czech Technical University Prague
+
+## Program
+
+To be determined.
+
+## Proceedings
+
+Information will be provided after the workshop.
