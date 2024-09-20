@@ -10,7 +10,7 @@ redirect_from:
 ---
 ## Participation
 
-We invite submissions from either CTU Prague or University of Applied Sciences Dresden fitting to the workshop topics. Please submit the title of your talk and the name of the author(s) to kammer[at]htw-dresden.de.
+We invite submissions from either CTU Prague or University of Applied Sciences Dresden fitting to the workshop topics. Please submit the title of your talk with an abstract of max. 1000 characters and the name of the author(s) via [Easychair](https://easychair.org/conferences/?conf=wuv2024).
 
 ## Topics
 
@@ -22,14 +22,16 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 
 ## Important Dates
 
-| 1.11.2024 | Submission of talks |
+| 26.10.2024 | Submission of abstracts via [Easychair](https://easychair.org/conferences/?conf=wuv2024) |
 | 29.11.–1.12.2024 | Workshop in Dresden |
+| 1.2.2025 | Submission of papers accompanying talks |
 
 ## Organizers
 
 Markus Wacker, University of Applied Sciences Dresden\
 Dietrich Kammer, University of Applied Sciences Dresden\
 Pavel Slavik, Czech Technical University Prague\
+Zdeněk Míkovec, Czech Technical University Prague\
 Miroslav Macik, Czech Technical University Prague
 
 ## Program
