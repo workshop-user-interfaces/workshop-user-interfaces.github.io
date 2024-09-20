@@ -24,7 +24,23 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 
 | 26.10.2024 | Submission of abstracts via [Easychair](https://easychair.org/conferences/?conf=wuv2024) |
 | 29.11.–1.12.2024 | Workshop in Dresden |
-| 1.2.2025 | Submission of papers accompanying talks |
+| 01.02.2025 | Submission of papers accompanying talks |
+
+## Submission Instructions
+
+For your final paper submissions after the workshop, please use the [LNCS template]( https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) from Springer. 
+
+* Your paper should have a length of around 4 pages. (if you there are many illustrations a longer paper might be accepted)
+* Please send me your LaTeX-source and a pdf of your paper, in that way I might be able to correct minor mistakes I spot, and you will only have to verify them. As name of both files, I would recommend the title and please exchange the whitespaces with underscore.
+* Please mention the institute you represent e.g.:
+
+Faculty of Informatics / Mathematics,\
+Chair for Computer Graphics,\
+University of Applied Sciences, Dresden Germany
+
+* Please watch out for the typical line-overflows LaTeX sometimes creates when it has problems with line breaks in words or links.
+* Please also send a copy of your mail with your paper to your supervisor/professor you are representing so they are informed, and I can be sure that they are.
+* Do not forget to acknowledge your grant number (if you have one and are expected to do so)
 
 ## Organizers
 
