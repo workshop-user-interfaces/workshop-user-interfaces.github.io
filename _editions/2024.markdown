@@ -81,7 +81,7 @@ Miroslav Macik, Czech Technical University Prague
 |   |   |
 | 18:30 | Social Dinner |
 
-### Samstag, 30.11.2024, Room Z 336, HTW Dresden
+### Saturday, 30.11.2024, Room Z 336, HTW Dresden
 
 | 10:00 | Jenny Portwich: Towards a User Interface for Railway Disposition Management: Visualization Approaches and Challenges |
 | 10:30 | *Short talk to be determined* |
