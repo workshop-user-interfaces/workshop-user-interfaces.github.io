@@ -50,9 +50,55 @@ Pavel Slavik, Czech Technical University Prague\
 Zdeněk Míkovec, Czech Technical University Prague\
 Miroslav Macik, Czech Technical University Prague
 
-## Program
+## Preliminary Program
+{: .extra-space-bottom }
 
-To be determined.
+### Friday, 29.11.2024, Room Z 336, HTW Dresden
+
+| 9:45 | Opening |
+|   |   |
+| 9:50 | Barbora Koudelková: Gamification in Occupational Therapy: Automating the MABC-2 Motor Skill Evaluation |	
+| 10:20 | Selina Natschke: Adaptive Spatial Augmented Reality in Smart Factories | 	
+| 10:40 | Há Trang Phanová: Enhancing Wearable Technology in Dementia Care: A Systematic Review of User Resistance and Design Innovations |
+|   |   |
+| 11:00 | Coffee break |
+|   |   |
+| 11:30 | Alexander Weise: Incorporation of a Voice Assistance System in an existing Ambient Assisted Living system to go further |	
+| 12:00 | Hanna Hliavitskaya: Digital representation of building interiors for individuals with vision impairments |
+|   |   |
+| 12:20 | Lunch |
+|   |   |
+| 13:30 | Martin Doležal: Effects of navigation system use on spatial memory and spatial learning |
+| 13:50 | Anna Šebíková: Approaches of Design Students to Projects for Users with Specific Needs |
+|   |   |
+| 14:20 | Coffee break |
+|   |   |
+| 14:50 | Jan Karhan: Innovation in Design Education: A Personal Approach to Problem-Solving through Personas |
+| 15:20 | Georg Eißner: Touch2Music – Development of an instrument for music therapy |
+| 15:40 | Florian Bender: Use of large language models for the verbal description of motion sequences recorded by a sensor floor |
+|   |   |
+| 16:00 | Demonstrations |
+|   |   |
+| 18:30 | Social Dinner |
+
+### Samstag, 30.11.2024, Room Z 336, HTW Dresden
+
+| 10:00 | Jenny Portwich: Towards a User Interface for Railway Disposition Management: Visualization Approaches and Challenges |
+| 10:30 | *Short talk to be determined* |
+|   |   |
+| 10:50 | Coffee break |
+|   |   |
+| 11:20 | Niklas Kothe: IDOIKON - Development of an online tool with low-threshold tools for the art-historical analysis and documentation of perspective constructions in pictures |
+| 11:40 | Vojtěch Radakulan: Digital twins in contemporary art galleries |
+|   |   |
+| 12:10 | Lunch |
+|   |   |
+| 13:20 | Adam Loucký: How to organize a data organizer	|
+| 13:40 | Jimmy Orawetz: Text-to-Atmosphere:  AI-Based Panorama and Ambience Generation for Multisensory Environments |
+|   |   |
+| 14:10 | Organizer Meeting |
+|   |   |
+| 15:00 | Social Event at Christmas Market |
 
 ## Proceedings
 
