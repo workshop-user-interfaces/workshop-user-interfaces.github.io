@@ -84,7 +84,7 @@ Miroslav Macik, Czech Technical University Prague
 ### Saturday, 30.11.2024, Room Z 336, HTW Dresden
 
 | 10:00 | Jenny Portwich: Towards a User Interface for Railway Disposition Management: Visualization Approaches and Challenges |
-| 10:30 | *Short talk to be determined* |
+| 10:30 | David Schäfer: Analytical comparison of 3D rendering frameworks for integration into a 3D editor |
 |   |   |
 | 10:50 | Coffee break |
 |   |   |
