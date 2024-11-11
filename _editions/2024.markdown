@@ -75,7 +75,7 @@ Miroslav Macik, Czech Technical University Prague
 |   |   |
 | 14:50 | Jan Karhan: Innovation in Design Education: A Personal Approach to Problem-Solving through Personas |
 | 15:20 | Georg Eißner: Touch2Music – Development of an instrument for music therapy |
-| 15:40 | Florian Bender: Use of large language models for the verbal description of motion sequences recorded by a sensor floor |
+| 15:40 | Jimmy Orawetz: Text-to-Atmosphere:  AI-Based Panorama and Ambience Generation for Multisensory Environments |
 |   |   |
 | 16:00 | Demonstrations |
 |   |   |
@@ -94,7 +94,7 @@ Miroslav Macik, Czech Technical University Prague
 | 12:10 | Lunch |
 |   |   |
 | 13:20 | Adam Loucký: How to organize a data organizer	|
-| 13:40 | Jimmy Orawetz: Text-to-Atmosphere:  AI-Based Panorama and Ambience Generation for Multisensory Environments |
+| 13:40 | Florian Bender: Use of large language models for the verbal description of motion sequences recorded by a sensor floor |
 |   |   |
 | 14:10 | Organizer Meeting |
 |   |   |
