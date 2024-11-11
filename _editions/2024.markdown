@@ -50,7 +50,7 @@ Pavel Slavik, Czech Technical University Prague\
 Zdeněk Míkovec, Czech Technical University Prague\
 Miroslav Macik, Czech Technical University Prague
 
-## Preliminary Program
+## Program
 {: .extra-space-bottom }
 
 ### Friday, 29.11.2024, Room Z 336, HTW Dresden
