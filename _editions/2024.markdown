@@ -70,11 +70,11 @@ Miroslav Macik, Czech Technical University Prague
 | 12:20 | Lunch |
 |   |   |
 | 13:30 | Martin Doležal: Effects of navigation system use on spatial memory and spatial learning |
-| 13:50 | Anna Šebíková: Approaches of Design Students to Projects for Users with Specific Needs |
+| 13:50 | Jan Karhan: Innovation in Design Education: A Personal Approach to Problem-Solving through Personas |
 |   |   |
 | 14:20 | Coffee break |
 |   |   |
-| 14:50 | Jan Karhan: Innovation in Design Education: A Personal Approach to Problem-Solving through Personas |
+| 14:50 | Anna Šebíková: Approaches of Design Students to Projects for Users with Specific Needs |
 | 15:20 | Georg Eißner: Touch2Music – Development of an instrument for music therapy |
 | 15:40 | Jimmy Orawetz: Text-to-Atmosphere:  AI-Based Panorama and Ambience Generation for Multisensory Environments |
 |   |   |
