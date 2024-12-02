@@ -1,0 +1,58 @@
+---
+layout: default
+year: 2025
+dates: 27.11.-29.11.2025
+location: Dresden, Germany
+number: 28th
+---
+## Participation
+
+We invite submissions from either CTU Prague or University of Applied Sciences Dresden fitting to the workshop topics. Please submit the title of your talk with an abstract of max. 1000 characters and the name of the author(s).
+
+## Topics
+
+* Computer Graphics
+* Human-computer Interaction
+* Information Visualization
+* Robotics
+* Usability
+
+## Important Dates
+
+| 26.10.2025 | Submission of abstracts |
+| 27.11.–29.11.2025 | Workshop in Dresden |
+| 01.02.2026 | Submission of papers accompanying talks |
+| 28.02.2026 | End of peer-review process | 
+
+## Submission Instructions
+
+For your final paper submissions after the workshop, please use the [LNCS template]( https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) from Springer. 
+
+* Your paper should have a length of around 4 pages. (if you there are many illustrations a longer paper might be accepted)
+* Please upload your LaTeX-source and a pdf of your paper, in that way we are able to correct minor mistakes. As name of both files, please use your last name and title of the paper, exchanging whitespaces with underscores.
+* Please mention the institute you represent e.g.:
+
+Faculty of Informatics / Mathematics,\
+Chair for Computer Graphics,\
+University of Applied Sciences, Dresden Germany
+
+* Please watch out for the typical line-overflows LaTeX sometimes creates when it has problems with line breaks in words or links.
+* Please consult with your supervisor/professor before submission.
+* Do not forget to acknowledge your grant number (if you have one and are expected to do so)
+
+## Organizers
+
+Markus Wacker, University of Applied Sciences Dresden\
+Dietrich Kammer, University of Applied Sciences Dresden\
+Pavel Slavik, Czech Technical University Prague\
+Zdeněk Míkovec, Czech Technical University Prague\
+Miroslav Macik, Czech Technical University Prague
+
+## Program
+{: .extra-space-bottom }
+
+to be determined
+
+## Proceedings
+
+Information will be provided after the workshop.
