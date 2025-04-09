@@ -4,6 +4,9 @@ year: 2025
 dates: 27.11.-29.11.2025
 location: Dresden, Germany
 number: 28th
+permalink: /
+redirect_from:
+  - /editions/2025
 ---
 ## Participation
 
@@ -22,14 +25,15 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 | 26.10.2025 | Submission of abstracts |
 | 27.11.–29.11.2025 | Workshop in Dresden |
 | 01.02.2026 | Submission of papers accompanying talks |
-| 28.02.2026 | End of peer-review process | 
+| 23.02.2026 | End of peer-review process | 
+| 16.03.2026 | Final submission of papers | 
 
 ## Submission Instructions
 
-For your final paper submissions after the workshop, please use the [LNCS template]( https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) from Springer. 
+For your final paper submissions after the workshop, please use the [LNCS template]( https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) from Springer. **Do not** use the Word template but the Latex version, possibly with an online editor such as [Overleaf](https://www.overleaf.com/).
 
-* Your paper should have a length of around 4 pages. (if you there are many illustrations a longer paper might be accepted)
-* Please upload your LaTeX-source and a pdf of your paper, in that way we are able to correct minor mistakes. As name of both files, please use your last name and title of the paper, exchanging whitespaces with underscores.
+* Your paper should have a length of around 4–6 pages. (if you there are many illustrations a longer paper might be accepted)
+* Please upload your LaTeX-source and a PDF of your paper, in that way we are able to correct minor mistakes. As name of both files, please use your last name and title of the paper, exchanging whitespaces with underscores.
 * Please mention the institute you represent e.g.:
 
 Faculty of Informatics / Mathematics,\
@@ -37,6 +41,7 @@ Chair for Computer Graphics,\
 University of Applied Sciences, Dresden Germany
 
 * Please watch out for the typical line-overflows LaTeX sometimes creates when it has problems with line breaks in words or links.
+* Please use a `.bib` file and Bibtex for your citations in the paper.
 * Please consult with your supervisor/professor before submission.
 * Do not forget to acknowledge your grant number (if you have one and are expected to do so)
 
