@@ -101,4 +101,4 @@ Miroslav Macik, Czech Technical University Prague
 
 ## Proceedings
 
-Information will be provided after the workshop.
+The proceedings of the workshop are available on [Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:520-qucosa2-967779).
