@@ -22,13 +22,17 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 
 ## Important Dates
 
-| 26.10.2025 | Submission of abstracts |
+| 27.10.2025 | Submission of abstracts |
 | 27.11.–29.11.2025 | Workshop in Dresden |
 | 01.02.2026 | Submission of papers accompanying talks |
-| 23.02.2026 | End of peer-review process | 
-| 16.03.2026 | Final submission of papers | 
+| 23.02.2026 | End of peer-review process |
+| 16.03.2026 | Final submission of papers |
 
-## Submission Instructions
+## Abstract Submission
+
+Please submit a title for your talk and 2–3 sentences describing your work via mail to the organizers.
+
+## Paper Submission Instructions
 
 For your final paper submissions after the workshop, please use the [LNCS template]( https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) from Springer. **Do not** use the Word template but the Latex version, possibly with an online editor such as [Overleaf](https://www.overleaf.com/).
 
