@@ -66,7 +66,7 @@ Miroslav Macik, Czech Technical University Prague
 | 14:00 | Opening |
 |   |   |
 | 14:30 | Eliška Rojíčková: Acessible Game for Visually Impaired Individuals |
-| 15:00 | Nora Havel: Persona by Prompt - Shaping Characters from Generic Large Language Models |
+| 15:00 | N.N.: Haptic Interfaces for Vivid Digital Experiences |
 |   |   |
 | 15:30 | Coffee break |
 |   |   |
@@ -81,8 +81,8 @@ Miroslav Macik, Czech Technical University Prague
 |   |   |
 | 11:00 | Coffee break |
 |   |   |
-| 11:30 | Kamila Foltýnová	HapticTiles++: Development of Improved Haptic Maps of Rooms for Individuals with Vision Impairments |
-| 12:00 | Karl-Wilhelm Poland: Haptic Interfaces for Vivid Digital Experiences |
+| 11:30 | Kamila Foltýnová: HapticTiles++: Development of Improved Haptic Maps of Rooms for Individuals with Vision Impairments |
+| 12:00 | Nora Havel: Persona by Prompt - Shaping Characters from Generic Large Language Models |
 |   |   |
 | 12:30 | Lunch |
 |   |   |
