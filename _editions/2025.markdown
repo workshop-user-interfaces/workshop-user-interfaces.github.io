@@ -66,7 +66,7 @@ Zdeněk Míkovec, Czech Technical University Prague
 | 14:00 | Opening |
 |   |   |
 | 14:30 | Eliška Rojíčková: Acessible Game for Visually Impaired Individuals |
-| 15:00 | Felix Mühlberg: Haptic Interfaces for Vivid Digital Experiences |
+| 15:00 | Felix Mühlberg: HILDE – Haptical Interface for Lively Digital Experiences |
 |   |   |
 | 15:30 | Coffee break |
 |   |   |
