@@ -33,7 +33,7 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 
 Please submit a title for your talk and 2–3 sentences describing your work via mail to the organizers.
 
-## Paper Submission Instructions
+## Submission Instructions
 
 For your final paper submissions after the workshop, please use the [LNCS template]( https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) from Springer. **Do not** use the Word template but the Latex version, possibly with an online editor such as [Overleaf](https://www.overleaf.com/). When you have registered for an Overleaf account, you can also use a [direct link](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi) to create a new paper project with the correct LNCS template.
 
