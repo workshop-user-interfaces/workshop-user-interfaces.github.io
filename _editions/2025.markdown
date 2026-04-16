@@ -51,7 +51,7 @@ University of Applied Sciences, Dresden Germany
 
 Markus Wacker, University of Applied Sciences Dresden\
 Dietrich Kammer, University of Applied Sciences Dresden\
-Miroslav Macik, Czech Technical University Prague
+Miroslav Macik, Czech Technical University Prague\
 Pavel Slavik, Czech Technical University Prague\
 Zdeněk Míkovec, Czech Technical University Prague
 
