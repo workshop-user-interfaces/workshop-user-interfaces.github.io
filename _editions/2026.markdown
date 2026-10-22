@@ -37,7 +37,7 @@ Please submit a title for your talk and 2–3 sentences describing your work via
 
 For your final paper submissions after the workshop, please use the [LNCS template]( https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) from Springer. **Do not** use the Word template but the Latex version, possibly with an online editor such as [Overleaf](https://www.overleaf.com/). When you have registered for an Overleaf account, you can also use a [direct link](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi) to create a new paper project with the correct LNCS template.
 
-* Your paper should have a length of around 4–6 pages. (if you there are many illustrations a longer paper might be accepted)
+* Your paper should have a length of around 4–6 pages. (longer pages are acceptable if there are many illustrations or the length fits the content of the contribution)
 * Please upload your LaTeX-source and a PDF of your paper, in that way we are able to correct minor mistakes. As name of both files, please use your last name and title of the paper, exchanging whitespaces with underscores.
 * Please mention the institute you represent e.g.:
 
