@@ -5,6 +5,15 @@ dates: 27.11.-29.11.2025
 location: Dresden, Germany
 permalink: /editions/2025/
 number: 28th
+program_days:
+  - date: "2025-11-27"
+    label: "Thursday, 27.11.2025"
+    location: "Room Z 336, HTW Dresden"
+  - date: "2025-11-28"
+    label: "Friday, 28.11.2025"
+    location: "Room Z 336, HTW Dresden"
+  - date: "2025-11-29"
+    label: "Saturday, 29.11.2025"
 ---
 ## Participation
 
@@ -59,47 +68,7 @@ Zdeněk Míkovec, Czech Technical University Prague
 ## Program
 {: .extra-space-bottom }
 
-### Thursday, 27.11.2025, Room Z 336, HTW Dresden
-
-| 14:00 | Opening |
-|   |   |
-| 14:30 | Eliška Rojíčková: Acessible Game for Visually Impaired Individuals |
-| 15:00 | Felix Mühlberg: HILDE – Haptical Interface for Lively Digital Experiences |
-|   |   |
-| 15:30 | Coffee break |
-|   |   |
-| 16:00 | Marek Holeček: Communication in Couples |
-| 16:30 | Radovan Půček: MirKit: Designing a Modular Wireless System for Pervasive Multimodal Interaction |
-
-### Friday, 28.11.2025, Room Z 336, HTW Dresden
-
-| 9:30 | Lilia Schneider: Visualization of High-dimensional Data using Dimensionality Reduction and Glyphs in a Zoomable User Interface |
-| 10:00 | Dušan Jánsky: Multi-Factor Authentication in the Polkadot Cryptocurrency Ecosystem |
-| 10:30 | Gabriel Pechstein: Data Retrieval for Open Access Journal Metadata in the Context of Project PANTER |
-|   |   |
-| 11:00 | Coffee break |
-|   |   |
-| 11:30 | Kamila Foltýnová: HapticTiles++: Development of Improved Haptic Maps of Rooms for Individuals with Vision Impairments |
-| 12:00 | ~~Nora Havel: Persona by Prompt – Shaping Characters from Generic Large Language Models~~ (_canceled due to illness_) |
-|   |   |
-| 12:30 | Lunch |
-|   |   |
-| 13:30 | Vojtěch Radakulan: Methodological Approaches to Studying Spatial Cognition with EEG in Virtual Reality|
-| 14:00 | Hanna Hliavitskaya, Kryštof Havlík: Creating Digital Spatial Environments of Defined Orientation Complexity for Individuals with Vision Impairments |
-|   |   |
-| 14:30 | Coffee break |
-|   |   |
-| 15:00 | Petr Felkel: Interactive Tool for Teaching Transformations in Computer Graphics |
-| 15:30 | Mathias Müller: ReFlex – An Open Science Approach for Research on Elastic Displays |
-| 16:00 | Closing remarks |
-|   |   |
-| 16:30 | Demo Sessions (Elastic Displays and Collaborative Design of Tactons) |
-|   |   |
-| 18:30 | Workshop Dinner |
-
-### Saturday, 29.11.2025
-
-| 10:00 | Organizer Meeting and Social Event at Christmas Market |
+{% include program.html %}
 
 ## Proceedings
 
