@@ -3,6 +3,7 @@ layout: default
 year: 2025
 dates: 27.11.-29.11.2025
 location: Dresden, Germany
+permalink: /editions/2025/
 number: 28th
 ---
 ## Participation

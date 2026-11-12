@@ -4,6 +4,7 @@ year: 2018
 number: 22nd
 dates: 30.11.-1.12.2018
 location: Dresden, Germany
+permalink: /editions/2018/
 ---
 
 ## Topics

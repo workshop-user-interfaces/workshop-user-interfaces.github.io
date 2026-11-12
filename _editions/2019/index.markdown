@@ -4,6 +4,7 @@ year: 2019
 number: 23rd
 dates: 29.11.-30.11.2019
 location: Dresden, Germany
+permalink: /editions/2019/
 ---
 
 ## Organizers

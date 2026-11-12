@@ -3,6 +3,7 @@ layout: default
 year: 2024
 dates: 29.11.-1.12.2024
 location: Dresden, Germany
+permalink: /editions/2024/
 number: 27th
 ---
 ## Participation

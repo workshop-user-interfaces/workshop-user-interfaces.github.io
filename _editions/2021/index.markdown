@@ -4,6 +4,7 @@ year: 2021
 number: 24th
 dates: 26.11.2021
 location: Dresden, Germany
+permalink: /editions/2021/
 ---
 
 ## Organizers

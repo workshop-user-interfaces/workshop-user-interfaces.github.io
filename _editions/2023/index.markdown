@@ -3,6 +3,7 @@ layout: default
 year: 2023
 dates: 1.12.-2.12.2023
 location: Dresden, Germany
+permalink: /editions/2023/
 number: 26th
 ---
 ## Participation

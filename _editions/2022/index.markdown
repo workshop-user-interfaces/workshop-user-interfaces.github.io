@@ -4,6 +4,7 @@ year: 2022
 number: 25th
 dates: 25.11.-26.11.2022
 location: Dresden, Germany
+permalink: /editions/2022/
 ---
 
 
