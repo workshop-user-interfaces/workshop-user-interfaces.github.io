@@ -69,11 +69,15 @@
                 {% if abstract != "" %}
                   <details class="program-details">
                     <summary class="program-summary">
-                      <span class="program-title">{{ item.title }}</span>
-                      {% if item.speakers %}
-                        <span class="program-speakers">{{ item.speakers }}</span>
-                      {% endif %}
-                      <span class="program-abstract-label">Abstract</span>
+                      <span class="program-summary-main">
+                        <span class="program-title">{{ item.title }}</span>
+                        {% if item.speakers %}
+                          <span class="program-speakers">{{ item.speakers }}</span>
+                        {% endif %}
+                      </span>
+                      <span class="program-abstract-action">
+                        <span class="program-abstract-label">Abstract</span>
+                      </span>
                     </summary>
                     <div class="program-abstract">{{ abstract | markdownify }}</div>
                   </details>

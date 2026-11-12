@@ -97,32 +97,44 @@
 }
 
 .program-summary {
-    position: relative;
-    padding-right: 2rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 16px;
     cursor: pointer;
     list-style: none;
+}
+
+.program-summary-main {
+    flex: 1 1 auto;
+    min-width: 0;
 }
 
 .program-summary::-webkit-details-marker {
     display: none;
 }
 
-.program-summary::after {
-    position: absolute;
-    top: 0;
-    right: 0;
+.program-abstract-action {
+    display: inline-flex;
+    flex: 0 0 auto;
+    align-items: center;
+    gap: 8px;
+    padding-top: 2px;
+}
+
+.program-abstract-action::after {
     content: "+";
     font-weight: 600;
+    line-height: 1;
     color: #00c4b3;
 }
 
-.program-details[open] > .program-summary::after {
+.program-details[open] > .program-summary .program-abstract-action::after {
     content: "−";
 }
 
 .program-abstract-label {
     display: inline-block;
-    margin-left: 8px;
     font-size: 0.65em;
     font-weight: 600;
     letter-spacing: 0.06em;
