@@ -1,0 +1,8 @@
+---
+edition: 2022
+date: "2022-11-26"
+start: "13:35"
+type: talk
+title: "Nice noise: background noise enhancement with generated musical content"
+speakers: "Pavel Husa"
+---

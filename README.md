@@ -206,6 +206,6 @@ If there are no program items for the edition, the include shows
 `page.program_placeholder` or, by default, "The program will be announced
 soon."
 
-Older editions keep their existing hand-written tables until their program is
-migrated. To migrate one, split the table into one file per entry as described
-above and replace the table with the include.
+The 2018 edition still uses a hand-written table. To migrate it, split the
+table into one file per entry as described above and replace the table with the
+include.

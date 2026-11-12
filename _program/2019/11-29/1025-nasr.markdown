@@ -1,0 +1,8 @@
+---
+edition: 2019
+date: "2019-11-29"
+start: "10:25"
+type: talk
+title: "Lane detection using point clouds"
+speakers: "Ahmed Nasr (HTW)"
+---

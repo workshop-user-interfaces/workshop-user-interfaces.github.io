@@ -5,6 +5,13 @@ dates: 1.12.-2.12.2023
 location: Dresden, Germany
 permalink: /editions/2023/
 number: 26th
+program_days:
+  - date: "2023-12-01"
+    label: "Friday, 1.12.2023"
+    location: "Room Z336, HTW Dresden"
+  - date: "2023-12-02"
+    label: "Saturday, 2.12.2023"
+    location: "Damaskuszimmer, Japanisches Palais Dresden"
 ---
 ## Participation
 
@@ -28,38 +35,7 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 ## Program
 {: .extra-space-bottom }
 
-### Friday, 1.12.2023, Room Z336, HTW Dresden
-
-| 9:30 | Opening |
-|   |   |
-| 9:40 | Václav Pavlovec: Multiboundary labeling |
-| 10:10 | Philipp Ballin: Vibrotactile Design Principles |
-| 10:40 | Leon Kolosov, Niklas Maximilian Kothe: Errors in pictures? |
-|   |   |
-| 11:00 | Coffee break |
-|   |   |
-| 11:15 | Yonatan Pepper: Development of a contactless sensor-based night light control system with OpenHab3 |
-| 11:35 | Jan Trávníček: Automatic sports equipment rental service |
-| 11:55 | Jimmy Orawetz, Felix Mühlberger: Capturing and Reproducing Atmospheres |
-|   |   |
-| 12:25 | Lunch break |
-|   |   |
-| 13:10 | Demonstration Mobile Interaction Room |
-| 14:00 | Vojtěch Leischner: Time based audio-movement graph |
-| 14:30 | Markéta Machová: Balancing Exercises for Seniors in VR with Interactive Elements |
-|   |   |
-| 15:00 | Coffee break |
-|   |   |
-| 15:15 | Radka Olyšarová: Exercise for seniors in Virtual Reality |
-| 15:45 | Markus Wacker: Damascus Room for blind and visually impaired people |
-| 16:15 | Vojtěch Radakulan: Comparative Evaluation of Diegetic and Non-Diegetic Navigation in Virtual Reality |
-|   |   |
-| 18:30 | Dinner at Dschinghis Khan, Wiener Platz 9, 01069 Dresden |
-
-### Saturday, 2.12.2023, Damaskuszimmer, Japanisches Palais Dresden
-
-| 10:00 | Demonstration Damascus Room for blind and visually impaired people |
-| 11:00 | Organizer’s Meeting |
+{% include program.html %}
 
 ## Proceedings
 
