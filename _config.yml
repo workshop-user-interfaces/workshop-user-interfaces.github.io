@@ -19,6 +19,10 @@ permalink: pretty
 collections:
   editions:
     output: true
+  # Program items are read as data and rendered through the edition page.
+  # They must not be written as individual pages, hence output: false.
+  program:
+    output: false
 
 plugins:
   - jekyll-redirect-from

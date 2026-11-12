@@ -1,0 +1,153 @@
+.program {
+    margin-bottom: $normal-font-size * 1.5;
+}
+
+.program-day {
+    margin-bottom: $normal-font-size * 2;
+}
+
+.program-day-title {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 14px;
+    padding-bottom: 8px;
+    margin-bottom: 4px;
+    border-bottom: 2px solid #00c4b3;
+}
+
+.program-day-location {
+    font-size: 0.8em;
+    font-weight: 200;
+    color: #666;
+}
+
+.program-timetable {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.program-item {
+    display: grid;
+    grid-template-columns: 5.5rem 1fr;
+    gap: 16px;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.program-item:last-child {
+    padding-bottom: 10px;
+}
+
+.program-time {
+    padding-top: 1px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+.program-time-end {
+    display: block;
+    font-size: 0.8em;
+    font-weight: 200;
+    color: #666;
+}
+
+.program-title {
+    font-weight: 600;
+}
+
+.program-speakers {
+    display: block;
+    margin-top: 2px;
+    font-size: 0.9em;
+    color: #444;
+}
+
+.program-summary {
+    position: relative;
+    padding-right: 2rem;
+    cursor: pointer;
+    list-style: none;
+}
+
+.program-summary::-webkit-details-marker {
+    display: none;
+}
+
+.program-summary::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    content: "+";
+    font-weight: 600;
+    color: #00c4b3;
+}
+
+.program-details[open] > .program-summary::after {
+    content: "−";
+}
+
+.program-abstract-label {
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 0.65em;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #00c4b3;
+}
+
+.program-abstract {
+    padding-top: 8px;
+    font-size: 0.95em;
+}
+
+.program-abstract p {
+    padding-bottom: $normal-font-size;
+}
+
+.program-abstract p:last-child {
+    padding-bottom: 0;
+}
+
+.program-note {
+    display: block;
+    margin-top: 4px;
+    font-size: 0.85em;
+    font-style: italic;
+    color: #666;
+}
+
+.program-item--canceled .program-title {
+    color: #888;
+    text-decoration: line-through;
+}
+
+.program-item--break,
+.program-item--lunch {
+    color: #555;
+}
+
+.program-item--break .program-title,
+.program-item--lunch .program-title {
+    font-weight: 200;
+    font-style: italic;
+}
+
+.program-item--demo .program-title,
+.program-item--social .program-title {
+    color: #007f75;
+}
+
+.program-empty {
+    color: #666;
+}
+
+@media(max-width: 600px) {
+    .program-item {
+        grid-template-columns: 3.8rem 1fr;
+        gap: 10px;
+    }
+}

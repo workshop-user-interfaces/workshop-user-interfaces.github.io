@@ -1,0 +1,82 @@
+{% assign edition = include.edition | default: page.year %}
+{% assign edition_number = edition | plus: 0 %}
+{% assign program_items = site.program | where: "edition", edition_number | sort: "date" %}
+{% assign program_days = program_items | group_by: "date" %}
+
+{% if program_items.size == 0 %}
+  <p class="program-empty">{{ page.program_placeholder | default: "The program will be announced soon." }}</p>
+{% else %}
+  <div class="program">
+    {% for day in program_days %}
+      {% assign day_date = day.name | date: "%Y-%m-%d" %}
+      {% assign day_config = nil %}
+      {% if page.program_days %}
+        {% assign day_config = page.program_days | where: "date", day_date | first %}
+      {% endif %}
+
+      {% assign day_items = day.items | sort: "start" %}
+      {% assign rooms = day_items | map: "room" | compact %}
+      {% assign fallback_day_label = day.name | date: "%A, %d.%m.%Y" %}
+
+      <section class="program-day" id="program-{{ day_date }}">
+        <h3 class="program-day-title">
+          <span>{{ day_config.label | default: fallback_day_label }}</span>
+          {% if day_config.location %}
+            <span class="program-day-location">{{ day_config.location }}</span>
+          {% elsif rooms.size > 0 %}
+            <span class="program-day-location">{{ rooms.first }}</span>
+          {% endif %}
+        </h3>
+
+        <ol class="program-timetable">
+          {% for item in day_items %}
+            {% assign abstract = item.content | strip %}
+            {% if abstract == "" %}
+              {% assign abstract = item.abstract | strip %}
+            {% endif %}
+            {% assign item_type = item.type | default: "talk" %}
+
+            <li class="program-item program-item--{{ item_type }}{% if item.canceled %} program-item--canceled{% endif %}">
+              <div class="program-time">
+                {% if item.start %}
+                  {% assign start_parts = item.start | split: ":" %}
+                  <time datetime="{{ day_date }}T{{ item.start }}">{{ start_parts[0] | plus: 0 }}:{{ start_parts[1] }}</time>
+                {% endif %}
+                {% if item.end %}
+                  {% assign end_parts = item.end | split: ":" %}
+                  <span class="program-time-end">{{ end_parts[0] | plus: 0 }}:{{ end_parts[1] }}</span>
+                {% endif %}
+              </div>
+
+              <div class="program-body">
+                {% if abstract != "" %}
+                  <details class="program-details">
+                    <summary class="program-summary">
+                      <span class="program-title">{{ item.title }}</span>
+                      {% if item.speakers %}
+                        <span class="program-speakers">{{ item.speakers }}</span>
+                      {% endif %}
+                      <span class="program-abstract-label">Abstract</span>
+                    </summary>
+                    <div class="program-abstract">{{ abstract | markdownify }}</div>
+                  </details>
+                {% else %}
+                  <div class="program-details">
+                    <span class="program-title">{{ item.title }}</span>
+                    {% if item.speakers %}
+                      <span class="program-speakers">{{ item.speakers }}</span>
+                    {% endif %}
+                  </div>
+                {% endif %}
+
+                {% if item.note %}
+                  <span class="program-note">{{ item.note }}</span>
+                {% endif %}
+              </div>
+            </li>
+          {% endfor %}
+        </ol>
+      </section>
+    {% endfor %}
+  </div>
+{% endif %}
