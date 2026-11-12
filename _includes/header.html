@@ -1,14 +1,21 @@
-<div class="container-page">
-    <div class="container-content">
-        <div class="grid-header">
-        <div class="text-header">
-            <h1><a class="title-link" href="{{ site.url }}">{{ page.number }} {{ site.title }}</a></h1>
-        </div>
-        <div class="date-header">
-            <span class="listing bold">{{ page.location }}</span>
-            <span class="listing bold">{{ page.dates }}</span>
-        </div>
+<header class="site-header">
+    <div class="container-page">
+        <div class="container-content">
+            <div class="grid-header">
+                <div class="text-header">
+                    <h1><a class="title-link" href="{{ "/" | relative_url }}">{% if page.number %}{{ page.number }} {% endif %}{{ site.title }}</a></h1>
+                </div>
+                {% if page.location or page.dates %}
+                <div class="date-header">
+                    {% if page.location %}
+                    <span class="listing bold">{{ page.location }}</span>
+                    {% endif %}
+                    {% if page.dates %}
+                    <span class="listing bold">{{ page.dates }}</span>
+                    {% endif %}
+                </div>
+                {% endif %}
+            </div>
         </div>
     </div>
-</div>
-<div class="image-header"></div>
+</header>
