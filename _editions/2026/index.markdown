@@ -7,12 +7,13 @@ number: 29th
 permalink: /
 redirect_from:
   - /editions/2026
-program_placeholder: "tba"
 program_days:
   - date: "2026-11-26"
     label: "Thursday, 26.11.2026"
+    location: "Room Z 146a, HTW Dresden"
   - date: "2026-11-27"
     label: "Friday, 27.11.2026"
+    location: "Room Z 146a, HTW Dresden"
   - date: "2026-11-28"
     label: "Saturday, 28.11.2026"
 ---
