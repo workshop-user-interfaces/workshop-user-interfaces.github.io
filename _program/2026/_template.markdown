@@ -8,6 +8,8 @@ start: "14:00"
 type: talk
 title: "Title of the talk"
 speakers: "First Last"
+# session: "IMMERSION"
+# chair: "Pavel Slavik"
 # room: "Room Z 336, HTW Dresden"
 # canceled: true
 # note: "Canceled due to illness"

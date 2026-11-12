@@ -90,6 +90,8 @@ end: "14:30"          # optional
 type: talk
 title: "Title of the talk"
 speakers: "First Last"
+session: "IMMERSION"  # optional, starts a session block
+chair: "Pavel Slavik" # optional, use on the first item of a session
 room: "Room Z 336"    # optional
 ---
 
@@ -110,12 +112,19 @@ The following front matter keys are supported:
 | `type`     | no       | `talk` (default), `break`, `lunch`, `demo`, `social`, `opening`, `closing`, `other` |
 | `title`    | yes      | Title or label                                                     |
 | `speakers` | no       | Speaker(s), displayed below the title                              |
+| `session`  | no       | Session label; a new session block starts when the value changes   |
+| `chair`    | no       | Session chair; put it on the first item of the session             |
 | `room`     | no       | Room for this item; the first room of a day is used as fallback    |
 | `canceled` | no       | Set to `true` to strike through the title                          |
 | `note`     | no       | Extra note below the item, e.g. a cancellation reason              |
 
 Zero-padded start times are recommended because program items are sorted by
-their `start` value.
+their `start` value. For an item without a fixed time, `start` may contain a
+label such as `"individual planning"`; it is then shown in the time column
+instead of a clock time.
+
+A session is introduced by the first item that has a `session` value. Put the
+chair on that first item so it appears next to the session heading.
 
 ### Breaks, lunch and other non-talk items
 
@@ -194,8 +203,8 @@ The include uses `page.year` by default. An explicit year can be passed with
 `{% include program.html edition=2025 %}`.
 
 If there are no program items for the edition, the include shows
-`page.program_placeholder` (or "The program will be announced soon.").
-The 2026 edition uses `tba`.
+`page.program_placeholder` or, by default, "The program will be announced
+soon."
 
 Older editions keep their existing hand-written tables until their program is
 migrated. To migrate one, split the table into one file per entry as described

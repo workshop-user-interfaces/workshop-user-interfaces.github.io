@@ -28,6 +28,30 @@
     list-style: none;
 }
 
+.program-session {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 12px;
+    margin-top: 16px;
+    padding: 7px 10px;
+    background-color: #f2fbfa;
+    border-left: 3px solid #00c4b3;
+}
+
+.program-session-title {
+    font-size: 0.8em;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #007f75;
+}
+
+.program-session-chair {
+    font-size: 0.8em;
+    color: #666;
+}
+
 .program-item {
     display: grid;
     grid-template-columns: 5.5rem 1fr;
@@ -52,6 +76,13 @@
     font-size: 0.8em;
     font-weight: 200;
     color: #666;
+}
+
+.program-time-label {
+    display: block;
+    font-size: 0.8em;
+    line-height: 1.2;
+    white-space: normal;
 }
 
 .program-title {

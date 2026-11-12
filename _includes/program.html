@@ -29,6 +29,7 @@
         </h3>
 
         <ol class="program-timetable">
+          {% assign previous_session = nil %}
           {% for item in day_items %}
             {% assign abstract = item.content | strip %}
             {% if abstract == "" %}
@@ -36,11 +37,27 @@
             {% endif %}
             {% assign item_type = item.type | default: "talk" %}
 
+            {% if item.session %}
+              {% if item.session != previous_session %}
+                <li class="program-session">
+                  <span class="program-session-title">{{ item.session }}</span>
+                  {% if item.chair %}
+                    <span class="program-session-chair">Chair: {{ item.chair }}</span>
+                  {% endif %}
+                </li>
+              {% endif %}
+              {% assign previous_session = item.session %}
+            {% endif %}
+
             <li class="program-item program-item--{{ item_type }}{% if item.canceled %} program-item--canceled{% endif %}">
               <div class="program-time">
                 {% if item.start %}
                   {% assign start_parts = item.start | split: ":" %}
-                  <time datetime="{{ day_date }}T{{ item.start }}">{{ start_parts[0] | plus: 0 }}:{{ start_parts[1] }}</time>
+                  {% if start_parts.size > 1 %}
+                    <time datetime="{{ day_date }}T{{ item.start }}">{{ start_parts[0] | plus: 0 }}:{{ start_parts[1] }}</time>
+                  {% else %}
+                    <span class="program-time-label">{{ item.start }}</span>
+                  {% endif %}
                 {% endif %}
                 {% if item.end %}
                   {% assign end_parts = item.end | split: ":" %}
