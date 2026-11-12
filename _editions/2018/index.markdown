@@ -37,4 +37,4 @@ Pavel Slavík
 
 ## Proceedings
 
-On [Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:520-qucosa2-361124).
+On [Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:520-qucosa-235511).
