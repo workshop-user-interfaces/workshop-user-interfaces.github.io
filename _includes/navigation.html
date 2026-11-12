@@ -1,26 +1,32 @@
 <div >
     <h3>Navigation</h3>
     <p>
-        {% if page.content contains 'Participation' %}
+        {% if page.content contains 'id="participation"' %}
         <span class="listing"><a href="#participation">Participation</a></span>
         {% endif %}
-        {% if page.content contains 'Topics' %}
+        {% if page.content contains 'id="topics"' %}
         <span class="listing"><a href="#topics">Topics</a></span>
         {% endif %}
-        {% if page.content contains 'Important Dates' %}
+        {% if page.content contains 'id="important-dates"' %}
         <span class="listing"><a href="#important-dates">Important Dates</a></span>
         {% endif %}
-        {% if page.content contains 'Submission Instructions' %}
-        <span class="listing"><a href="#submission-instructions">Submissions</a></span>
-        {% endif %}
-        {% if page.content contains 'Organizers' %}
-        <span class="listing"><a href="#organizers">Organizers</a></span>
-        {% endif %}
-        {% if page.content contains 'Program' %}
+        {% if page.content contains 'id="program"' %}
         <span class="listing"><a href="#program">Program</a></span>
         {% endif %}
-        {% if page.content contains 'Proceedings' %}
+        {% if page.content contains 'id="proceedings"' %}
         <span class="listing"><a href="#proceedings">Proceedings</a></span>
+        {% endif %}
+        {% assign submissions_anchor = nil %}
+        {% if page.content contains 'id="submission-instructions"' %}
+            {% assign submissions_anchor = 'submission-instructions' %}
+        {% elsif page.content contains 'id="abstract-submission"' %}
+            {% assign submissions_anchor = 'abstract-submission' %}
+        {% endif %}
+        {% if submissions_anchor %}
+        <span class="listing"><a href="#{{ submissions_anchor }}">Submissions</a></span>
+        {% endif %}
+        {% if page.content contains 'id="organizers"' %}
+        <span class="listing"><a href="#organizers">Organizers</a></span>
         {% endif %}
     </p>
     <h3>Editions</h3>

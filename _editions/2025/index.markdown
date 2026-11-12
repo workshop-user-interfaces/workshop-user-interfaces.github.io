@@ -15,6 +15,7 @@ program_days:
   - date: "2025-11-29"
     label: "Saturday, 29.11.2025"
 ---
+
 ## Participation
 
 We invite submissions from either CTU Prague or University of Applied Sciences Dresden fitting to the workshop topics. Please submit the title of your talk with an abstract of max. 1000 characters and the name of the author(s).
@@ -35,6 +36,15 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 | 01.02.2026 | Submission of papers accompanying talks |
 | 23.02.2026 | End of peer-review process |
 | 16.03.2026 | Final submission of papers |
+
+## Program
+{: .extra-space-bottom }
+
+{% include program.html %}
+
+## Proceedings
+
+The proceedings of the workshop are available on [Qucosa](https://nbn-resolving.de/urn:nbn:de:bsz:520-qucosa2-1036235). DOI: [https://doi.org/10.69558/2026007](https://doi.org/10.69558/2026007)
 
 ## Abstract Submission
 
@@ -64,12 +74,3 @@ Dietrich Kammer, University of Applied Sciences Dresden\
 Miroslav Macik, Czech Technical University Prague\
 Pavel Slavik, Czech Technical University Prague\
 Zdeněk Míkovec, Czech Technical University Prague
-
-## Program
-{: .extra-space-bottom }
-
-{% include program.html %}
-
-## Proceedings
-
-The proceedings of the workshop are available on [Qucosa](https://nbn-resolving.de/urn:nbn:de:bsz:520-qucosa2-1036235). DOI: [https://doi.org/10.69558/2026007](https://doi.org/10.69558/2026007)

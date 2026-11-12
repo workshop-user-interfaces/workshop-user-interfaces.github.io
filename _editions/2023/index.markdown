@@ -25,13 +25,6 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 | 10.12.2023 | Submission of slides |
 | 1.02.2024 | Submission of papers accompanying talks |
 
-## Organizers
-
-Markus Wacker, University of Applied Sciences Dresden\
-Dietrich Kammer, University of Applied Sciences Dresden\
-Pavel Slavik, Czech Technical University Prague\
-Miroslav Macik, Czech Technical University Prague
-
 ## Program
 {: .extra-space-bottom }
 
@@ -71,3 +64,10 @@ Miroslav Macik, Czech Technical University Prague
 ## Proceedings
 
 The proceedings of the workshop are available on [Qucosa](https://nbn-resolving.de/urn:nbn:de:bsz:520-qucosa2-909971). DOI: [https://doi.org/10.69558/2024005](https://doi.org/10.69558/2024005).
+
+## Organizers
+
+Markus Wacker, University of Applied Sciences Dresden\
+Dietrich Kammer, University of Applied Sciences Dresden\
+Pavel Slavik, Czech Technical University Prague\
+Miroslav Macik, Czech Technical University Prague

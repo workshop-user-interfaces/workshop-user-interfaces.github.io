@@ -7,12 +7,6 @@ location: Dresden, Germany
 permalink: /editions/2019/
 ---
 
-## Organizers
-
-Hans-Joachim Böhme\
-Markus Wacker\
-Pavel Slavík
-
 ## Program
 {: .extra-space-bottom }
 
@@ -53,3 +47,9 @@ Pavel Slavík
 ## Proceedings
 
 On [Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:520-qucosa2-361124).
+
+## Organizers
+
+Hans-Joachim Böhme\
+Markus Wacker\
+Pavel Slavík

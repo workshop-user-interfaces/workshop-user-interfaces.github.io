@@ -14,12 +14,6 @@ permalink: /editions/2018/
 * Robotics
 * Usability
 
-## Organizers
-
-Hans-Joachim Böhme\
-Markus Wacker\
-Pavel Slavík
-
 ## Program
 
 * An approach to a self-organizing production in comparison to a centrally planned production.
@@ -38,3 +32,9 @@ Pavel Slavík
 ## Proceedings
 
 On [Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:520-qucosa-235511).
+
+## Organizers
+
+Hans-Joachim Böhme\
+Markus Wacker\
+Pavel Slavík
