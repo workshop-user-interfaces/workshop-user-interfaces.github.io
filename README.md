@@ -66,7 +66,9 @@ _sass/
 
 `_editions` contains the edition pages. `_program` is a Jekyll collection
 with `output: false`: the talk files are read as data and rendered as part
-of their edition page, but are not published as separate pages.
+of their edition page, but are not published as separate pages. Jekyll
+requires collection directories at the top level, so the year-named
+subfolder in `_program` mirrors the edition's folder in `_editions`.
 
 ### Adding a program item
 
