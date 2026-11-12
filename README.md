@@ -26,8 +26,7 @@ The workshop description is fixed for every edition of the workshop and can be c
 Each edition has its own folder in `_editions`, with the edition page in
 `_editions/<year>/index.markdown`.
 
-Be sure to add the following to the front matter of the current edition
-(and remove it from the past edition):
+Be sure to add the following to the front matter of the current edition:
 
 ```yaml
 permalink: /
@@ -38,10 +37,17 @@ redirect_from:
 Where `20xy` is the current edition you prepared in the corresponding file
 `_editions/20xy/index.markdown`.
 
-Feel free to copy the general content as a template from previous editions and adapt it. You are completely free to add your own content in the markdown section of the file. Be sure to use proper markdown syntax througout the file.
+When the next edition becomes current, replace `permalink: /` in this edition
+with an explicit permalink for its own URL and remove the `redirect_from`
+entry, for example:
 
-Older editions use an explicit permalink such as `/editions/2025/` so their
-public URLs remain stable.
+```yaml
+permalink: /editions/20xy/
+```
+
+This keeps the public URL of every past edition stable.
+
+Feel free to copy the general content as a template from previous editions and adapt it. You are completely free to add your own content in the markdown section of the file. Be sure to use proper markdown syntax througout the file.
 
 ### Repository layout
 
