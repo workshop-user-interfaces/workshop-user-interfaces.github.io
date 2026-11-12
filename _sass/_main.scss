@@ -15,7 +15,7 @@ body {
     position: relative;
     display: flex;
     align-items: flex-end;
-    min-height: clamp(440px, 42vw, 560px);
+    min-height: clamp(240px, 28vw, 560px);
     isolation: isolate;
     color: #102235;
     background: #0b1a2b url(../img/header.jpg) no-repeat center 58%;
@@ -88,7 +88,7 @@ body {
     font-size: .78em;
     letter-spacing: .08em;
     text-transform: uppercase;
-    color: #526172;
+    color: #313d4a;
 }
 
 .site-header .date-header .listing + .listing {
