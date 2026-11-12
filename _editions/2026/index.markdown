@@ -7,6 +7,14 @@ number: 29th
 permalink: /
 redirect_from:
   - /editions/2026
+program_placeholder: "tba"
+program_days:
+  - date: "2026-11-26"
+    label: "Thursday, 26.11.2026"
+  - date: "2026-11-27"
+    label: "Friday, 27.11.2026"
+  - date: "2026-11-28"
+    label: "Saturday, 28.11.2026"
 ---
 ## Participation
 
@@ -32,7 +40,7 @@ We invite submissions from either CTU Prague or University of Applied Sciences D
 ## Program
 {: .extra-space-bottom }
 
-tba
+{% include program.html %}
 
 ## Proceedings
 
