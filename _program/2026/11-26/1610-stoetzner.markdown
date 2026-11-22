@@ -1,7 +1,7 @@
 ---
 edition: 2026
 date: "2026-11-26"
-start: "15:50"
+start: "16:10"
 type: talk
 title: "Data Augmentation for CNN-Based Detection of Tube Profile End Faces on Stacked Construction Fence Panels"
 speakers: "Moritz Stötzner"
